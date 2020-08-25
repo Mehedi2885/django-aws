@@ -24,7 +24,7 @@ SECRET_KEY = '+%14_=s==qpjgnne!46ex+-zr#=7g0)qlb9=u)!_0e02^8olfj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['18.188.137.131git']
+ALLOWED_HOSTS = ['18.188.137.131']
 
 # Application definition
 
